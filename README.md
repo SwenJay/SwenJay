@@ -164,7 +164,7 @@
     </p>
   </div>
   <div style="flex: 30%;">
-    <img src="/api/placeholder/300/200" alt="Medical System" width="100%">
+    <img src="https://github.com/SwenJay/SwenJay/blob/b09c8a622e071f1ef17ee5b08f7e8dcd1888fd1c/Screenshot%202025-04-22%20211321.jpg" alt="Medical System" width="100%">
   </div>
 </div>
 
