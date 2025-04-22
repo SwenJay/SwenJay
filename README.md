@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="/api/placeholder/300/200" alt="Coding GIF">
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding GIF">
 
 - 🎓 Currently studying Software Engineering at LNBTI and building real-world systems
 - 💡 Specializing in backend development with PHP, Java, and MySQL
@@ -78,9 +78,6 @@
 
 ## 📂 Projects
 
-<div align="center">
-  <img src="/api/placeholder/800/5" alt="divider" width="100%">
-</div>
 
 ### 🛒 SweTechMart – Admin Dashboard for E-Commerce
 
@@ -103,13 +100,11 @@
     </p>
   </div>
   <div style="flex: 30%;">
-    <img src="/api/placeholder/300/200" alt="E-Commerce Dashboard" width="100%">
+    <img src="https://github.com/SwenJay/SwenJay/blob/6273bc163d857e3dabdd2cd2e45f3f44fd417cbb/Screenshot_22-4-2025_211950_localhost.jpeg" alt="E-Commerce Dashboard" width="100%">
   </div>
 </div>
 
-<div align="center">
-  <img src="/api/placeholder/800/5" alt="divider" width="100%">
-</div>
+<hr>
 
 ### ✈️ Sri Lankan Jetspot – Aviation Community Platform
 
@@ -138,9 +133,7 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="/api/placeholder/800/5" alt="divider" width="100%">
-</div>
+<hr>
 
 ### 💊 MediChecks – Medical Appointment System
 
@@ -164,19 +157,17 @@
     </p>
   </div>
   <div style="flex: 30%;">
-    <img src="https://github.com/SwenJay/SwenJay/blob/b09c8a622e071f1ef17ee5b08f7e8dcd1888fd1c/Screenshot%202025-04-22%20211321.jpg" alt="Medical System" width="100%">
+    <img src="https://github.com/SwenJay/SwenJay/blob/6273bc163d857e3dabdd2cd2e45f3f44fd417cbb/Screenshot_22-4-2025_211914_localhost.jpeg" alt="Medical System" width="100%">
   </div>
 </div>
 
-<div align="center">
-  <img src="/api/placeholder/800/5" alt="divider" width="100%">
-</div>
+<hr>
 
 ### 🌍 Travel Agency Website – Inquiry System
 
 <div style="display: flex;">
   <div style="flex: 30%;">
-    <img src="/api/placeholder/300/200" alt="Travel Agency" width="100%">
+    <img src="https://github.com/SwenJay/SwenJay/blob/6273bc163d857e3dabdd2cd2e45f3f44fd417cbb/Screenshot_22-4-2025_211633_localhost.jpeg" alt="Travel Agency" width="100%">
   </div>
   <div style="flex: 70%;">
     <p>A clean, responsive site with inquiry forms where users can select services and submit information directly to the agency.</p>
@@ -203,19 +194,17 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;">
-    <img src="/api/placeholder/120/120" alt="Backend Architecture" width="120" height="120" style="border-radius: 50%;">
+    <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="Backend Architecture" width="120" height="120" style="border-radius: 50%;">
     <p><b>🚀 Master Full Backend Architecture</b></p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="/api/placeholder/120/120" alt="Dev Job" width="120" height="120" style="border-radius: 50%;">
     <p><b>👨‍💻 Land a Dev Job During Studies</b></p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="/api/placeholder/120/120" alt="Pilot" width="120" height="120" style="border-radius: 50%;">
+    <img src="https://www.bing.com/th/id/OGC.57466129978009641556446e99a7cd1e?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fZPxKmzv2twsIo%2fgiphy.gif&ehk=QwKMPACnGImYMDSgt8iPqr8lvRrgRm%2b15HCMjAP6rDQ%3d" alt="Pilot" width="200px" height="120px" style="border-radius: 50%;">
     <p><b>✈️ Become a Commercial Pilot</b></p>
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="/api/placeholder/120/120" alt="Platforms" width="120" height="120" style="border-radius: 50%;">
     <p><b>🌍 Build Platforms That Matter</b></p>
   </div>
 </div>
@@ -226,11 +215,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwenJay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwenJay&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwenJay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
 
 <hr>
