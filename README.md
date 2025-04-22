@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<div align="center">
-  <img src="![image alt](https://github.com/SwenJay/SwenJay/blob/2a0597962abf90daf44dc80bdfa8d1b57fcbd051/vlcsnap-2025-02-14-19h55m58s787.png)">
-</div>
-
 <p align="center">
   I'm a passionate IT student from 🇱🇰 Sri Lanka who loves solving real-world problems through code.<br>
   I build admin dashboards, e-commerce platforms, and even healthcare systems – all while chasing my dream of becoming a pilot!<br>
@@ -118,9 +114,9 @@
 ### ✈️ Sri Lankan Jetspot – Aviation Community Platform
 
 <div style="display: flex;">
-  <div style="flex: 30%;">
-    <img src="/api/placeholder/300/200" alt="Aviation Platform" width="100%">
-  </div>
+  <div align="center">
+  <img src="https://github.com/SwenJay/SwenJay/blob/2a0597962abf90daf44dc80bdfa8d1b57fcbd051/vlcsnap-2025-02-14-19h55m58s787.png">
+</div>
   <div style="flex: 70%;">
     <p>An aviation media site built for spotters in Sri Lanka to share, like, and comment on aircraft photos.</p>
     <p><b>🧩 Features:</b></p>
