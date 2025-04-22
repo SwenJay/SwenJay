@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="![image alt](https://github.com/SwenJay/SwenJay/blob/2a0597962abf90daf44dc80bdfa8d1b57fcbd051/vlcsnap-2025-02-14-19h55m58s787.png)" alt="Aviation Banner">
+  <img src="![image alt](https://github.com/SwenJay/SwenJay/blob/2a0597962abf90daf44dc80bdfa8d1b57fcbd051/vlcsnap-2025-02-14-19h55m58s787.png)">
 </div>
 
 <p align="center">
