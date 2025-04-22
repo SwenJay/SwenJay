@@ -6,7 +6,7 @@
 <h3 align="center">💻 Undergrad Developer | 🔧 Backend Focused | ✈️ Future Pilot</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=SwenJay&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views">
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="/api/placeholder/800/250" alt="Aviation Banner">
+  <img src="![image alt](https://github.com/SwenJay/SwenJay/blob/2a0597962abf90daf44dc80bdfa8d1b57fcbd051/vlcsnap-2025-02-14-19h55m58s787.png)" alt="Aviation Banner">
 </div>
 
 <p align="center">
