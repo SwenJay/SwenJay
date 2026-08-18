@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:8A7CE8,100:6A5ACD&height=250&section=header&text=Suwen%20Jayathunga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20%26%20Systems%20Developer%20%E2%80%A2%20SE%20Undergraduate%20%E2%80%A2%20Future%20Pilot&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A5ACD,50:8A7CE8,100:6A5ACD&amp;height=250&amp;section=header&amp;text=Suwen%20Jayathunga&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Backend%20Developer%20%E2%80%A2%20Software%20Engineering%20Undergraduate%20%E2%80%A2%20Aviation%20Enthusiast&amp;descAlignY=52&amp;descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=8A7CE8&center=true&vCenter=true&width=700&lines=Building+GPS+Fleet+Tracking+Systems+%F0%9F%9A%9B;TCP%2FIP+%2B+ASP.NET+Core+%2B+PostgreSQL;Backend+Architecture+%26+API+Engineering;Chasing+the+skies+%E2%9C%88%EF%B8%8F+while+shipping+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=8A7CE8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+GPS+Fleet+Tracking+Systems+%F0%9F%9A%9B;TCP%2FIP+%2B+ASP.NET+Core+%2B+PostgreSQL;Backend+Architecture+%26+API+Engineering;Chasing+the+skies+%E2%9C%88%EF%B8%8F+while+shipping+code" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SwenJay&label=Profile+Views&color=8A7CE8&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/SwenJay?label=Followers&style=for-the-badge&color=6A5ACD"/>
+<img src="https://komarev.com/ghpvc/?username=SwenJay&amp;label=Profile+Views&amp;color=8A7CE8&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/SwenJay?label=Followers&amp;style=for-the-badge&amp;color=6A5ACD"/>
 
 <br/><br/>
 
-<a href="https://github.com/SwenJay"><img src="https://img.shields.io/badge/GitHub-SwenJay-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/suwen-jayathunga-92525a319/"><img src="https://img.shields.io/badge/LinkedIn-Suwen%20Jayathunga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:suwencj1@gmail.com"><img src="https://img.shields.io/badge/Email-suwencj1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/swen_av_spotter"><img src="https://img.shields.io/badge/Instagram-swen__av__spotter-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/SwenJay"><img src="https://img.shields.io/badge/GitHub-SwenJay-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/suwen-jayathunga-92525a319/"><img src="https://img.shields.io/badge/LinkedIn-Suwen%20Jayathunga-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:suwencj1@gmail.com"><img src="https://img.shields.io/badge/Email-suwencj1%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://instagram.com/swen_av_spotter"><img src="https://img.shields.io/badge/Instagram-swen__av__spotter-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
 
 </div>
-
-<div align="center"><img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-6A5ACD?style=flat-square&labelColor=8A7CE8" width="100%" height="3"/></div>
 
 <img align="right" width="280" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding GIF">
 
