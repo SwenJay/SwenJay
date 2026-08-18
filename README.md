@@ -541,15 +541,26 @@ PET (B1) — ESOL / International English Certification
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwenJay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A7CE8&icon_color=8A7CE8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SwenJay&theme=tokyonight&hide_border=true&background=0D1117&ring=8A7CE8&fire=8A7CE8" alt="GitHub Streak" width="48%" />
+
+  <img
+    src="https://github-readme-stats-dusky-eta-lgsv0gb6gn.vercel.app/api?username=SwenJay&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=8A7CE8&amp;icon_color=8A7CE8"
+    alt="Suwen Jayathunga GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=SwenJay&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=8A7CE8&amp;fire=8A7CE8"
+    alt="Suwen Jayathunga GitHub Streak"
+    width="48%"
+  />
+
 </div>
 
 <div align="center">
 
   <img
     src="https://github-readme-stats-dusky-eta-lgsv0gb6gn.vercel.app/api/top-langs/?username=SwenJay&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8A7CE8"
-    alt="SwenJay Top Languages"
+    alt="Suwen Jayathunga Top Languages"
     width="40%"
   />
 
